@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-          "org.misakanatworkservices.ExampleMod"
+          "org.misakanetworkservices.ExampleMod"
 		],
 		"client": [
-          "org.misakanatworkservices.ExampleModClient"
+          "org.misakanetworkservices.ExampleModClient"
 		]
 	},
 	"mixins": [
