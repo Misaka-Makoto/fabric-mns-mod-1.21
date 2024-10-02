@@ -16,16 +16,16 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+          "org.misakanatworkservices.ExampleMod"
 		],
 		"client": [
-			"com.example.ExampleModClient"
+          "org.misakanatworkservices.ExampleModClient"
 		]
 	},
 	"mixins": [
 		"modid.mixins.json",
 		{
-			"config": "modid.client.mixins.json",
+			"config": "democratic-mc.client.mixins.json",
 			"environment": "client"
 		}
 	],

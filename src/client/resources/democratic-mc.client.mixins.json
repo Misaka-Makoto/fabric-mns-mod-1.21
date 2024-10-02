@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "org.misakanatworkservices.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+      "org.misakanatworkservices.mixin.client.ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

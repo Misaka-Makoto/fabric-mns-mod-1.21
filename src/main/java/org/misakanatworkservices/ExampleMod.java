@@ -1,4 +1,4 @@
-package com.example;
+package org.misakanatworkservices;
 
 import net.fabricmc.api.ModInitializer;
 
