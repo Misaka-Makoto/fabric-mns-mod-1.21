@@ -3,7 +3,7 @@
 	"package": "org.misakanetworkservices.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-      "org.misakanetworkservices.mixin.client.ExampleClientMixin"
+		"ExampleClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
