@@ -1,4 +1,4 @@
-package org.misakanatworkservices;
+package org.misakanetworkservices;
 
 import net.fabricmc.api.ClientModInitializer;
 

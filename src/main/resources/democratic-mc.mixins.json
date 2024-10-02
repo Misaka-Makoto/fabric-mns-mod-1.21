@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin",
+	"package": "org.misakanetworkservices.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-      "org.misakanatworkservices.mixin.ExampleMixin"
+      "org.misakanetworkservices.mixin.ExampleMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

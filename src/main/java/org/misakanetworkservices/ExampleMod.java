@@ -1,4 +1,4 @@
-package org.misakanatworkservices;
+package org.misakanetworkservices;
 
 import net.fabricmc.api.ModInitializer;
 
@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class ExampleMod implements ModInitializer {
-	public static final String MOD_ID = "modid";
+	public static final String MOD_ID = "democratic-mc";
 
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.

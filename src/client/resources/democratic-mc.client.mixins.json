@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "org.misakanatworkservices.mixin.client",
+	"package": "org.misakanetworkservices.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
       "org.misakanatworkservices.mixin.client.ExampleClientMixin"
